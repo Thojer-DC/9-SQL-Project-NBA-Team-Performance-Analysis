@@ -17,11 +17,6 @@ This project delivers insight analysis of NBA team and player performance from 2
 4. Assess the relationship between team success and the contributions of top players.
 5. Visualize changes in team rankings and player stats across seasons to reveal trends.
 
-## Dataset
-The data for this project is sourced from Kaggle
-Dataset Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-
-
 ## SQL Schema
 **Creating database** 
 ```SQL
